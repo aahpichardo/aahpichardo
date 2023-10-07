@@ -1,14 +1,14 @@
 <h1 align="center">Hey!, My name is Angel Pichardo</h1>
 
-###
+
 
 <h3 align="left">I'm a Software Developer with an insatiable desire to learn and create innovative technology.</h3>
 
-###
+
 
 <p align="left">✅ Currently studying a degree in Software Development<br>✅ Linux management and command lines<br>✅ Proactive, responsible but over all, passionate about my work with a desire to learn<br>✅ Experience in handling various technologies with different purposes</p>
 
-###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
@@ -34,26 +34,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
 </div>
 
-###
+
 
 <p align="left">You can find me here<br>📬 aahpichardo@gmail.com<br>🕊 @aahpichardo</p>
 
-###
 
-# <br clear="both">
-
-# <img src="https://raw.githubusercontent.com/aahpichardo/aahpichardo/output/snake.svg" alt="Snake animation" />
-
-###
-
-# <div align="center">
-#  <a href="https://open.spotify.com/user/12150659694">
-#    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=false" alt="Spotify recently played"  />
-#  </a>
-# </div>
-
-###
 
 <img align="left" src="https://profile-counter.glitch.me/aahpichardo/count.svg?"  />
 
-###
+
