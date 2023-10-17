@@ -1,4 +1,4 @@
-<h1 align="center">Hey!, My name is Angel Pichardo</h1>
+<h1 align="center">Hey!, my name is Angel Pichardo</h1>
 
 
 
