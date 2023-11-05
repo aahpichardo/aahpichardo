@@ -31,6 +31,13 @@
 </div>
 
 
+<div align="center">
+  <a href="https://open.spotify.com/user/12150659694">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=12150659694&count=1&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
+
+
 
 <p align="left">You can find me here<br>📬 aahpichardo@gmail.com<br>🕊 @aahpichardo</p>
 
