@@ -33,13 +33,14 @@
 <p align="left">You can find me here<br>📬 aahpichardo@gmail.com<br>🕊 @aahpichardo</p>
 
 <div align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=12150659694&redirect=true">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Spotify_icon.svg" alt="Spotify Logo" style="width: 50px; margin-bottom: 10px;">
+  <a href="#">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Spotify_icon.svg" alt="Spotify Logo" style="width: 50px; position: absolute; z-index: 1; margin-top: -25px;">
   </a>
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=12150659694&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=12150659694&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" style="width: 300px;" alt="spotify-github-profile">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=12150659694&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" style="width: 300px; z-index: 0;" alt="spotify-github-profile">
   </a>
 </div>
+
 
 
 
