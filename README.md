@@ -34,10 +34,9 @@
 
 
 <div align="center">
-  <a href="https://open.spotify.com/user/12150659694">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=12150659694&count=1&unique=false" alt="Spotify recently played"  />
-  </a>
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12150659694&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=12150659694&redirect=true)
+
 </div>
 
 
