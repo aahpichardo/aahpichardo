@@ -32,12 +32,12 @@
 
 <p align="left">You can find me here<br>📬 aahpichardo@gmail.com<br>🕊 @aahpichardo</p>
 
-
 <div align="center">
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=12150659694&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=12150659694&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" width="220" alt="spotify-github-profile">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=12150659694&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" style="width: 250px;" alt="spotify-github-profile">
   </a>
 </div>
+
 
 
 
